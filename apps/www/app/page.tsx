@@ -3,7 +3,12 @@ export default function Home() {
     <main className="w-screen min-h-screen flex justify-center items-center">
       w-screen min-h-screen flex justify-center items-center w-screen min-h-screen flex
       justify-center items-center w-screen min-h-screen flex justify-center items-center w-screen
-      min-h-screen flex justify-center items-center
+      min-h-screen flex justify-center items-center w-screen min-h-screen flex justify-center
+      items-center w-screen min-h-screen flex justify-center items-center w-screen min-h-screen flex
+      justify-center items-center w-screen min-h-screen flex justify-center items-center w-screen
+      min-h-screen flex justify-center items-center w-screen min-h-screen flex justify-center
+      items-center w-screen min-h-screen flex justify-center items-center w-screen min-h-screen flex
+      justify-center items-center
     </main>
   );
 }
